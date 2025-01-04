@@ -49,6 +49,7 @@ public class Main {
        {
           System.out.println(sp);
        }
+       System.out.println("++++++");
 //       String query1 = "From Product p WHERE p.name  = 'Mouse'";
 //       Query q1 = s1.createQuery(query1);
 //       System.out.println(q1);
